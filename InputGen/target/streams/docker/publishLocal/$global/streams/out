@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mExecuting Native docker build --force-rm -t input-gen:1.0-SNAPSHOT .[0m
+[0m[[0m[0mdebug[0m] [0m[0mWorking directory /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/InputGen/target/docker/stage[0m
+[0m[[0m[0minfo[0m] [0m[0mSending build context to Docker daemon  77.07MB[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 1/6 : FROM openjdk:latest[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 8a8b42cf3239[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 2/6 : WORKDIR /opt/docker[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> d005bc682f7d[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 3/6 : ADD --chown=daemon:daemon opt /opt[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 96ccb3fc4f3e[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 4/6 : USER daemon[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> ba0b6b3cec10[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 5/6 : ENTRYPOINT ["/opt/docker/bin/input-gen"][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> f68d420a36fc[0m
+[0m[[0m[0minfo[0m] [0m[0mStep 6/6 : CMD [][0m
+[0m[[0m[0minfo[0m] [0m[0m ---> Using cache[0m
+[0m[[0m[0minfo[0m] [0m[0m ---> 51cf2ce3d03c[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully built 51cf2ce3d03c[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully tagged input-gen:1.0-SNAPSHOT[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt image input-gen:1.0-SNAPSHOT[0m

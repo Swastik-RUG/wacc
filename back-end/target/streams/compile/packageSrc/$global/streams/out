@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/target/scala-2.12/back-end_2.12-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/StreamController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/controllers/StreamController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/UserController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/controllers/UserController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility/kafka/KafkaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/kafka/KafkaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility/cassandra/CassandraStartup.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/cassandra/CassandraStartup.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/JsonFormats.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/models/JsonFormats.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility/UserTableUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/EnergyController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/controllers/EnergyController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	repositories/EnergyConsumptionStreamReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/repositories/EnergyConsumptionStreamReader.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/EnergyConsumption.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/models/EnergyConsumption.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/User.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/models/User.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	utility/Constants.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/Constants.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

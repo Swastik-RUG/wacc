@@ -1,0 +1,28 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala:27:9: method find in trait GenericCollection is deprecated (since 0.16.0): Use `find` with optional `projection`[0m
+[0m[[0m[33mwarn[0m] [0m[0m      x.find(BSONDocument(_ID -> genUniqueProsumerID(userName))).one[User][0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala:40:13: method find in trait GenericCollection is deprecated (since 0.16.0): Use `find` with optional `projection`[0m
+[0m[[0m[33mwarn[0m] [0m[0m      table.find(BSONDocument(USER_NAME -> userName)).one[User][0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala:67:30: method findAndRemove in trait GenericCollection is deprecated (since 0.18.0): Use the other `findAndRemove`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    userCollection.flatMap(_.findAndRemove[BSONDocument](BSONDocument(_ID -> prosumerId)).map(_.result[User]))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala:83:30: method findAndUpdate in trait GenericCollection is deprecated (since 0.18.0): Use other `findAndUpdate`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    userCollection.flatMap(_.findAndUpdate(BSONDocument(_ID -> prosumerId), user).map(_.result[User]))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/app/utility/UserTableUtils.scala:90:30: method findAndUpdate in trait GenericCollection is deprecated (since 0.18.0): Use other `findAndUpdate`[0m
+[0m[[0m[33mwarn[0m] [0m[0m    userCollection.flatMap(_.findAndUpdate(BSONDocument(_ID -> prosumerId), user).map(_.result[User]))[0m
+[0m[[0m[33mwarn[0m] [0m[0m                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:6:1: method getEnergyConsumptionStream in class EnergyController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /EnergyConsumptionStream                                                controllers.EnergyController.getEnergyConsumptionStream[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:8:1: method energyConsumptionRT in class EnergyController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /energyConsumptionRT/:userName                                          controllers.EnergyController.energyConsumptionRT(userName: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:28:1: method akkaStreamSocket in class StreamController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /kafka_events                                                           controllers.StreamController.akkaStreamSocket[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:6:1: method getEnergyConsumptionStream in class EnergyController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /EnergyConsumptionStream                                                controllers.EnergyController.getEnergyConsumptionStream[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:8:1: method energyConsumptionRT in class EnergyController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /energyConsumptionRT/:userName                                          controllers.EnergyController.energyConsumptionRT(userName: String)[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/back-end/conf/routes:28:1: method akkaStreamSocket in class StreamController is deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mGET     /kafka_events                                                           controllers.StreamController.akkaStreamSocket[0m
+[0m[[0m[33mwarn[0m] [0m[0m11 warnings found[0m

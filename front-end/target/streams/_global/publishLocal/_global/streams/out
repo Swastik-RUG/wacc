@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: default#front-end_2.12;0.1.0-SNAPSHOT :: 0.1.0-SNAPSHOT :: integration :: Mon Oct 28 21:58:36 CET 2019[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=integration pubdate=Mon Oct 28 21:58:36 CET 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/swastik/workspace/gitRepo/wacc/2019_group_30_s4151968_s4056167_s3922782/front-end/target/scala-2.12/ivy-0.1.0-SNAPSHOT.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (15ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0minfo[0m] [0m[0m	published front-end_2.12 to /root/.ivy2/local/default/front-end_2.12/0.1.0-SNAPSHOT/poms/front-end_2.12.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published front-end_2.12 to /root/.ivy2/local/default/front-end_2.12/0.1.0-SNAPSHOT/jars/front-end_2.12.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published front-end_2.12 to /root/.ivy2/local/default/front-end_2.12/0.1.0-SNAPSHOT/srcs/front-end_2.12-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published front-end_2.12 to /root/.ivy2/local/default/front-end_2.12/0.1.0-SNAPSHOT/docs/front-end_2.12-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /root/.ivy2/local/default/front-end_2.12/0.1.0-SNAPSHOT/ivys/ivy.xml[0m
